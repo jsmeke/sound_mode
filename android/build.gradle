@@ -23,6 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     defaultConfig {
+        namespace 'com.tryingoutsomething.soundmode.sound_mode'
         compileSdk 34
         minSdkVersion 16
     }
